@@ -1,4 +1,4 @@
 # Data-Warehouse-Integrating-CRM-and-ERP-Data-for-Sales-Insights
 
 
-![image](https://github.com/user-attachments/assets/cbf9b797-12a6-453b-b823-d4c8cf756c3b)
+![image](https://github.com/user-attachments/assets/848a62be-51b5-4537-85e4-3e2a3086c549)
