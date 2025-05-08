@@ -17,7 +17,7 @@ Houses business-ready data modeled into a star schema required for reporting and
 
 ___
 
-# 📌 Project Overview
+## 📌 Project Overview
 This project involves:
 
 1. 🏗 **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
@@ -30,7 +30,7 @@ This project involves:
 
 ___
 
-# 🛡️ License
+## 🛡️ License
 This project is licensed under the **MIT License**. You are free to **use, modify, and share** this project with proper attribution.
 
 ___
