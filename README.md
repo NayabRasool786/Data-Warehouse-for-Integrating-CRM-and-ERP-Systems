@@ -1,8 +1,9 @@
 # 🏢 Data Warehouse - Integrating CRM and ERP Data for Analytics
 
-## 📊 This project shows a complete data solution — starting from creating a data warehouse to finding useful insights from the data.
+## 📊 This project shows a complete data solution starting from creating a data warehouse to finding useful insights from the data.
 
 **The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:**  
+
 ![image](https://github.com/user-attachments/assets/848a62be-51b5-4537-85e4-3e2a3086c549)
 
 ### 🔹 Bronze Layer
@@ -20,9 +21,12 @@ ___
 This project involves:
 
 1. 🏗 **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-2. 🔄 **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-3. 📦 **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. 📈 **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+2. 
+3. 🔄 **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+4. 
+5. 📦 **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+6. 
+7. 📈 **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 ___
 
