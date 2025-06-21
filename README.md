@@ -43,10 +43,9 @@ ___
 👋 Hi, I'm **NAYAB RASOOL SHAIK**
 
 ### 🔗 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/nayabrasool-shaik)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nayabrasool-shaik)
 - 🌐 [Portfolio](http://nayabrasool.my.canva.site/)
 - 📧 [Email](mailto:nayabshaik046@example.com)
+> "Learn deeply, build practically, explain simply, and share widely." – Shaik Nayab Rasool
 
 ---
-
-📊 *"Data is the new oil, but refining it is an art!"* 
